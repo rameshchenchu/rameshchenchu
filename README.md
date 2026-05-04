@@ -5,19 +5,26 @@
 ---
 
 ## 💼 About Me
-- 🔧 DevOps Engineer with hands-on experience in AWS, CI/CD, and IaC
+- 🔧 DevOps Engineer with hands-on experience in Linux, AWS, Version Control, CI/CD, Containerizaton, Orchestration and IaC
 - ☁️ Passionate about automation and scalable systems
 - 📍 Based in India
 
 ---
 
 ## 🛠 Skills & Tools
+- OS : Linux, Windows
+- Version control: Git, GitHub
 - Cloud: AWS
-- CI/CD: GitHub Actions, Jenkins
+- CI/CD: GitHub Actions, Jenkins, GitLab
 - IaC: Terraform
 - Containers: Docker, Kubernetes
 - Scripting: Bash, Python
 - Monitoring: Prometheus, Grafana
+- Code Analysis Tool: Sonarqube
+- Artifactory Tool: Nexus, Jfrog
+- Application server: Apache Tomcat
+- Webserver: Nginx
+  
 
 ---
 
@@ -38,8 +45,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: your@email.com
+- 💼 LinkedIn: https://linkedin.com/in/chenchu-ramesh
+- 📧 Email: chenchuramesh@email.com
 
 
 
