@@ -13,13 +13,14 @@
 
 ## 🛠 Skills & Tools
 - OS : Linux, Windows
-- Version control: Git, GitHub
+- Version control and Collaboration : Git, GitHub, GitLab
 - Cloud: AWS
-- CI/CD: GitHub Actions, Jenkins, GitLab
-- IaC: Terraform
-- Containers: Docker, Kubernetes
+- CI/CD: Jenkins, GitLab, GitHub Actions
+- Infrastructure as Code (IaC): Terraform
+- Configation Management: Ansible
+- Containerization and Orchestration: Docker, Kubernetes
 - Scripting: Bash, Python
-- Monitoring: Prometheus, Grafana
+- Monitoring and Observability: Prometheus, Grafana
 - Code Analysis Tool: Sonarqube
 - Artifactory Tool: Nexus, Jfrog
 - Application server: Apache Tomcat
