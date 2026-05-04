@@ -46,7 +46,7 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/chenchu-ramesh
-- 📧 Email: chenchuramesh@email.com
+- 📧 Email: chenchuramesh@gmail.com
 
 
 
